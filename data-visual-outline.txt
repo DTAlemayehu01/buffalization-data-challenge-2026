@@ -1,0 +1,9 @@
+# Things to look at
+
+What building types are at each zone? Zone vs Use
+- Overall Distribution of Building Use, if there is an overall as well as a specific trend, use geomap interaction
+
+Distribution of Sqft of buildings? somewhat normally distributed
+
+Can we predict the year a building was acquired?
+- lots of missing values here
